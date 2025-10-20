@@ -1,39 +1,38 @@
 <div align="center">
 
-# 👋 Tichaona Mutomba
+  <h1>👋 Tichaona Mutomba</h1>
 
-**Data Scientist | Quantitative Risk Analyst | ML Engineer**
+  <h3>Data Scientist | Quantitative Risk Analyst | ML Engineer</h3>
 
-📍 Harare, Zimbabwe
+  <p>📍 Harare, Zimbabwe</p>
 
-<p>
-  <a href="mailto:mutombatichaona@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-  </a>
-  <a href="https://linkedin.com/in/tichaonamutomba">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Tichaona123">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://youtube.com/b5AMuJ5gF29cXKULTq7nqA">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://wa.me/+263774678317">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
+  <p>
+    <a href="mailto:mutombatichaona@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/tichaonamutomba">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/Tichaona123">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    &nbsp;
+    <a href="https://youtube.com/b5AMuJ5gF29cXKULTq7nqA">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    </a>
+  </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Tichaona123&style=for-the-badge&color=brightgreen" alt="Profile Visitors"/>
-</p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Tichaona123&style=for-the-badge&color=brightgreen" alt="Profile Visitors"/>
+  </p>
 
 </div>
 
 ---
 
 ### 🌟 About Me
-
 I am a **Data Science professional** with expertise in **machine learning, quantitative risk analysis, big data analytics, and predictive modeling**. I have hands-on experience in **IFRS 9 & IFRS 17 credit risk models**, leveraging **Python, R, SQL, and cloud technologies (AWS/Azure)** to extract actionable insights from complex datasets. I specialize in:
 
 - **Predictive analytics & machine learning:** Building and validating regression, classification, and ensemble models.
@@ -137,7 +136,7 @@ I am passionate about **transforming data into insights** that drive business va
   <a href="https://spark.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark"/>
   </a>
-  <a href="httpsimg://hadoop.apache.org/" target="_blank">
+  <a href="https://hadoop.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
@@ -176,7 +175,7 @@ I am passionate about **transforming data into insights** that drive business va
   <br><br>
 
   <strong>Data Visualization & Reporting</strong><br>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
+  <a href="httpsG://powerbi.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank">
@@ -185,7 +184,7 @@ I am passionate about **transforming data into insights** that drive business va
   <a href="https://matplotlib.org/" target="_blank">
     <img src="https://img.shields.io/badge/Matplotlib-313131?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
   </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
+  <a href="httpsB://seaborn.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Seaborn-34A853?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
   </a>
   <a href="https://plotly.com/" target="_blank">
@@ -263,7 +262,7 @@ I am passionate about **transforming data into insights** that drive business va
 - Web interfaces built using **Django & Streamlit** for real-time recommendations.
 - **Tech Stack:** Python, Django, Streamlit, scikit-learn, Pandas
 
-**6️⃣ FastAPI Projects** | [🔗 View on GitHub](https://github.com/Tichaona123/your-project-repo-6)
+**6️⃣ FastAPI Projects** | [🔗 View on GitHub](httpsS://github.com/Tichaona123/your-project-repo-6)
 - Developed **RESTful APIs** for real-time predictions, CRUD operations, and ML model deployment.
 - Integrated **machine learning pipelines** into production-ready web services.
 - **Tech Stack:** Python, FastAPI, Pydantic, Uvicorn, scikit-learn
@@ -273,4 +272,3 @@ I am passionate about **transforming data into insights** that drive business va
 ### ⚡ Interests
 
 💻 Computer hardware repair | ⚽ Soccer | 🌱 Volunteering | 🌏 Learning languages & cultures
-

@@ -1,26 +1,32 @@
 <div align="center">
-  
-  # 👋 Tichaona Mutomba
-  
-  **Data Scientist | Quantitative Risk Analyst | ML Engineer**
-  
-  📍 Harare, Zimbabwe
-  
-  <p>
-    <a href="mailto:mutombatichaona@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-    </a>
-    <a href="https://linkedin.com/in/tichaonamutomba">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/Tichaona123">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Tichaona123&style=for-the-badge&color=brightgreen" alt="Profile Visitors"/>
-  </p>
+
+# 👋 Tichaona Mutomba
+
+**Data Scientist | Quantitative Risk Analyst | ML Engineer**
+
+📍 Harare, Zimbabwe
+
+<p>
+  <a href="mailto:mutombatichaona@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
+  <a href="https://linkedin.com/in/tichaonamutomba">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Tichaona123">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://youtube.com/b5AMuJ5gF29cXKULTq7nqA">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://wa.me/+263774678317">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Tichaona123&style=for-the-badge&color=brightgreen" alt="Profile Visitors"/>
+</p>
 
 </div>
 
@@ -30,13 +36,34 @@
 
 I am a **Data Science professional** with expertise in **machine learning, quantitative risk analysis, big data analytics, and predictive modeling**. I have hands-on experience in **IFRS 9 & IFRS 17 credit risk models**, leveraging **Python, R, SQL, and cloud technologies (AWS/Azure)** to extract actionable insights from complex datasets. I specialize in:
 
--   **Predictive analytics & machine learning:** Building and validating regression, classification, and ensemble models.
--   **Deep learning & neural networks:** Developing models using TensorFlow, Keras, PyTorch for structured and unstructured data.
--   **Data visualization & reporting:** Creating interactive dashboards in **Power BI**, **Tableau**, and **Python libraries**.
--   **Quantitative risk & financial modeling:** IFRS 9/17, Basel II/III, stress testing, Expected Credit Loss (ECL) modeling.
--   **Big data & cloud computing:** Handling large datasets using **Spark, Hadoop, MongoDB**, and deploying solutions on **AWS & Azure**.
+- **Predictive analytics & machine learning:** Building and validating regression, classification, and ensemble models.
+- **Deep learning & neural networks:** Developing models using TensorFlow, Keras, PyTorch for structured and unstructured data.
+- **Data visualization & reporting:** Creating interactive dashboards in **Power BI**, **Tableau**, and **Python libraries**.
+- **Quantitative risk & financial modeling:** IFRS 9/17, Basel II/III, stress testing, Expected Credit Loss (ECL) modeling.
+- **Big data & cloud computing:** Handling large datasets using **Spark, Hadoop, MongoDB**, and deploying solutions on **AWS & Azure**.
 
 I am passionate about **transforming data into insights** that drive business value and decision-making, with a focus on **finance, analytics, and operational optimization**.
+
+---
+
+### 🧭 Navigation
+
+- [About Me](#-about-me)
+- [Currently Working On](#-im-currently-working-on)
+- [GitHub Analytics](#-github-analytics)
+- [Technical Skills](#-technical-skills)
+- [Certifications](#-certifications-in-progress)
+- [Work Experience](#-work-experience)
+- [Projects](#-projects)
+- [Interests](#-interests)
+
+---
+
+### 🌱 I'm Currently Working On
+
+- 🔭 Deep diving into **MLOps** and building production-ready deployment pipelines using tools like **Kubeflow** and **Airflow**.
+- 🌱 Exploring advanced **Time Series Forecasting** techniques (e.g., N-BEATS, Transformer models) for financial data.
+- 👯 Looking to collaborate on open-source **Financial Risk** or **Economic Modeling** projects.
 
 ---
 
@@ -46,7 +73,9 @@ I am passionate about **transforming data into insights** that drive business va
   <img src="https://github-readme-stats.vercel.app/api?username=Tichaona123&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github" alt="Tichaona's GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tichaona123&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tichaona123&theme=tokyonight" alt="GitHub Streak" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=Tichaona123&theme=tokyonight" alt="GitHub Streak" width="60%"/>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tichaona123&theme=tokyo-night&hide_border=true&area=true&line=true&point=true" alt="GitHub Contribution Graph" width="100%"/>
 </p>
 
 ---
@@ -61,7 +90,7 @@ I am passionate about **transforming data into insights** that drive business va
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   </a>
-  <a href="httpsin://www.postgresql.org" target="_blank">
+  <a href="https://www.postgresql.org" target="_blank">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
@@ -76,7 +105,7 @@ I am passionate about **transforming data into insights** that drive business va
   <a href="https://dask.org/" target="_blank">
     <img src="https://img.shields.io/badge/Dask-F5A252?style=for-the-badge&logo=dask&logoColor=black" alt="Dask"/>
   </a>
-  <br>
+  <br><br>
   
   <strong>Machine Learning & Deep Learning</strong><br>
   <a href="https://scikit-learn.org/" target="_blank">
@@ -88,7 +117,7 @@ I am passionate about **transforming data into insights** that drive business va
   <a href="https://keras.io/" target="_blank">
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   </a>
-  <a href="httpsin://pytorch.org/" target="_blank">
+  <a href="https://pytorch.org/" target="_blank">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   </a>
   <a href="https://opencv.org/" target="_blank">
@@ -97,7 +126,7 @@ I am passionate about **transforming data into insights** that drive business va
   <a href="https://lightgbm.readthedocs.io/en/stable/" target="_blank">
     <img src="https://img.shields.io/badge/LightGBM-8E0000?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/>
   </a>
-  <a href="httpsin://xgboost.ai/" target="_blank">
+  <a href="https://xgboost.ai/" target="_blank">
     <img src="https://img.shields.io/badge/XGBoost-006000?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
   </a>
   <br>
@@ -108,10 +137,10 @@ I am passionate about **transforming data into insights** that drive business va
   <a href="https://spark.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark"/>
   </a>
-  <a href="https://hadoop.apache.org/" target="_blank">
+  <a href="httpsimg://hadoop.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop"/>
   </a>
-  <a href="httpsin://www.mongodb.com/" target="_blank">
+  <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   </a>
   <a href="https://airflow.apache.org/" target="_blank">
@@ -132,7 +161,7 @@ I am passionate about **transforming data into insights** that drive business va
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   </a>
-  <a href="httpsin://streamlit.io/" target="_blank">
+  <a href="https://streamlit.io/" target="_blank">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
@@ -150,13 +179,13 @@ I am passionate about **transforming data into insights** that drive business va
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
   </a>
-  <a href="httpsin://www.tableau.com/" target="_blank">
+  <a href="https://www.tableau.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank">
     <img src="https://img.shields.io/badge/Matplotlib-313131?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
   </a>
-  <a href="httpsin://seaborn.pydata.org/" target="_blank">
+  <a href="https://seaborn.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Seaborn-34A853?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
   </a>
   <a href="https://plotly.com/" target="_blank">
@@ -181,7 +210,7 @@ I am passionate about **transforming data into insights** that drive business va
   <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/" target="_blank">
     <img src="https://img.shields.io/badge/Azure_Data_Engineer_(DP-203)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Engineer Associate"/>
   </a>
-  <a href="httpsin://cloud.google.com/learn/certification/data-engineer" target="_blank">
+  <a href="https://cloud.google.com/learn/certification/data-engineer" target="_blank">
     <img src="https://img.shields.io/badge/Google_Professional_Data_Engineer-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="Google Professional Data Engineer"/>
   </a>
   <a href="https://www.credly.com/org/ernst-young/badge/ey-data-science-bronze" target="_blank">
@@ -197,47 +226,47 @@ I am passionate about **transforming data into insights** that drive business va
 <br>
 📅 *Oct 2023 – Jul 2024*
 
--   Developed and validated **credit risk models** for banks across Southern Africa & MENA region.
--   Built **IFRS 9 impairment models (PD, EAD, LGD)** using **Python & R**.
--   Applied **predictive analytics** and **machine learning models** to support **financial decision-making**.
--   Designed **interactive dashboards** to communicate complex data insights to stakeholders.
--   Assisted in **regulatory compliance reporting** and **Basel/IFRS alignment**.
+- Developed and validated **credit risk models** for banks across Southern Africa & MENA region.
+- Built **IFRS 9 impairment models (PD, EAD, LGD)** using **Python & R**.
+- Applied **predictive analytics** and **machine learning models** to support **financial decision-making**.
+- Designed **interactive dashboards** to communicate complex data insights to stakeholders.
+- Assisted in **regulatory compliance reporting** and **Basel/IFRS alignment**.
 
 ---
 
 ### 🚀 Projects
 
-**1️⃣ Class-Imbalance & Distributional Overlap** | [🔗 View on GitHub](https://github.com/Tichaona123)
--   Developed a **fraud detection framework** handling extreme **class imbalance & feature overlap**.
--   Applied **ensemble methods (XGBoost, Random Forest, Balanced Random Forest)** combined with **SMOTE & ADASYN resampling**.
--   Achieved **high F1-score and AUC**, enabling robust detection of minority fraud cases.
--   **Tech Stack:** Python, scikit-learn, XGBoost, imbalanced-learn, Pandas, Seaborn
+**1️⃣ Class-Imbalance & Distributional Overlap** | [🔗 View on GitHub](https://github.com/Tichaona123/your-project-repo-1)
+- Developed a **fraud detection framework** handling extreme **class imbalance & feature overlap**.
+- Applied **ensemble methods (XGBoost, Random Forest, Balanced Random Forest)** combined with **SMOTE & ADASYN resampling**.
+- Achieved **high F1-score and AUC**, enabling robust detection of minority fraud cases.
+- **Tech Stack:** Python, scikit-learn, XGBoost, imbalanced-learn, Pandas, Seaborn
 
-**2️⃣ Credit-Risk Modelling — Zimbabwe Data** | [🔗 View on GitHub](https://github.com/Tichaona123)
--   Built an end-to-end **credit risk modeling pipeline** using real microfinance data.
--   Implemented **resampling techniques**, **feature engineering**, and **hyperparameter tuning**.
--   Evaluated models using **AUC, F1-score, MCC, balanced accuracy** with **visual analytics**.
--   **Tech Stack:** Python, scikit-learn, Pandas, Power BI, NumPy
+**2️⃣ Credit-Risk Modelling — Zimbabwe Data** | [🔗 View on GitHub](https://github.com/Tichaona123/your-project-repo-2)
+- Built an end-to-end **credit risk modeling pipeline** using real microfinance data.
+- Implemented **resampling techniques**, **feature engineering**, and **hyperparameter tuning**.
+- Evaluated models using **AUC, F1-score, MCC, balanced accuracy** with **visual analytics**.
+- **Tech Stack:** Python, scikit-learn, Pandas, Power BI, NumPy
 
-**3️⃣ Football Analytics: Data Science Meets Soccer** | [🔗 View on GitHub](https://github.com/Tichaona123)
--   Analyzed **player performance, expected goals (xG), and team strategies** using Python and ML models.
--   Created **interactive dashboards** for player scouting and match analysis.
--   **Tech Stack:** Python, Pandas, scikit-learn, Matplotlib, Seaborn, Power BI
+**3️⃣ Football Analytics: Data Science Meets Soccer** | [🔗 View on GitHub](https://github.com/Tichaona123/your-project-repo-3)
+- Analyzed **player performance, expected goals (xG), and team strategies** using Python and ML models.
+- Created **interactive dashboards** for player scouting and match analysis.
+- **Tech Stack:** Python, Pandas, scikit-learn, Matplotlib, Seaborn, Power BI
 
-**4️⃣ Web Scraping & Data Automation** | [🔗 View on GitHub](https://github.com/Tichaona123)
--   Automated data collection from multiple websites using **BeautifulSoup, Selenium, Scrapy**.
--   Built **structured datasets** for analytics and machine learning applications.
--   **Tech Stack:** Python, BeautifulSoup, Selenium, Scrapy, Pandas
+**4️⃣ Web Scraping & Data Automation** | [🔗 View on GitHub](https://github.com/Tichaona123/your-project-repo-4)
+- Automated data collection from multiple websites using **BeautifulSoup, Selenium, Scrapy**.
+- Built **structured datasets** for analytics and machine learning applications.
+- **Tech Stack:** Python, BeautifulSoup, Selenium, Scrapy, Pandas
 
-**5️⃣ Streamlit & Django Movie Recommender** | [🔗 View on GitHub](https://github.com/Tichaona123)
--   Interactive **movie recommendation platform** with **user- and item-based collaborative filtering**.
--   Web interfaces built using **Django & Streamlit** for real-time recommendations.
--   **Tech Stack:** Python, Django, Streamlit, scikit-learn, Pandas
+**5️⃣ Streamlit & Django Movie Recommender** | [🔗 View on GitHub](https://github.com/Tichaona123/your-project-repo-5)
+- Interactive **movie recommendation platform** with **user- and item-based collaborative filtering**.
+- Web interfaces built using **Django & Streamlit** for real-time recommendations.
+- **Tech Stack:** Python, Django, Streamlit, scikit-learn, Pandas
 
-**6️⃣ FastAPI Projects** | [🔗 View on GitHub](httpss://github.com/Tichaona123)
--   Developed **RESTful APIs** for real-time predictions, CRUD operations, and ML model deployment.
--   Integrated **machine learning pipelines** into production-ready web services.
--   **Tech Stack:** Python, FastAPI, Pydantic, Uvicorn, scikit-learn
+**6️⃣ FastAPI Projects** | [🔗 View on GitHub](https://github.com/Tichaona123/your-project-repo-6)
+- Developed **RESTful APIs** for real-time predictions, CRUD operations, and ML model deployment.
+- Integrated **machine learning pipelines** into production-ready web services.
+- **Tech Stack:** Python, FastAPI, Pydantic, Uvicorn, scikit-learn
 
 ---
 

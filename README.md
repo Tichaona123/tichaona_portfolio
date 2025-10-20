@@ -7,37 +7,40 @@
 
 ## 🌟 Profile
 
-I am a **Data Science professional** with expertise in **machine learning, quantitative risk analysis, big data analytics, and predictive modeling**. Experienced in **IFRS 9 & IFRS 17 credit risk models**, leveraging **Python, R, SQL, and cloud technologies (AWS/Azure)**. I specialize in:  
+I am a **Data Science professional** with expertise in **machine learning, quantitative risk analysis, big data analytics, and predictive modeling**. I have hands-on experience in **IFRS 9 & IFRS 17 credit risk models**, leveraging **Python, R, SQL, and cloud technologies (AWS/Azure)** to extract actionable insights from complex datasets. I specialize in:  
 
-- Predictive analytics & ML: Regression, Classification, Ensemble Models  
-- Deep learning: Neural Networks, CNNs, RNNs, NLP  
-- Quantitative risk & financial modeling: Basel II/III, IFRS 9/17, Stress Testing  
-- Data visualization & reporting: Power BI, Tableau, Matplotlib, Seaborn  
-- Big Data & Cloud: Spark, Hadoop, AWS S3/EC2, SageMaker, Azure Data Services  
+- **Predictive analytics & machine learning:** Building and validating regression, classification, and ensemble models.  
+- **Deep learning & neural networks:** Developing models using TensorFlow, Keras, PyTorch for structured and unstructured data.  
+- **Data visualization & reporting:** Creating interactive dashboards in **Power BI**, **Tableau**, and **Python libraries**.  
+- **Quantitative risk & financial modeling:** IFRS 9/17, Basel II/III, stress testing, Expected Credit Loss (ECL) modeling.  
+- **Big data & cloud computing:** Handling large datasets using **Spark, Hadoop, MongoDB**, and deploying solutions on **AWS & Azure**.  
 
-I am passionate about **transforming complex datasets into actionable insights** for real-world business and financial challenges.
+I am passionate about **transforming data into insights** that drive business value and decision-making, with a focus on **finance, analytics, and operational optimization**.
 
 ---
 
 ## 💻 Technical Skills
 
-**Programming & Analytics**  
-- Python, R, SQL, Pandas, NumPy, SciPy, Dask  
+**Programming & Data Analytics**  
+- Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | R ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) | SQL ![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=postgresql&logoColor=white)  
+- Data Wrangling: Pandas, NumPy, SciPy, Dask  
 
 **Machine Learning & Deep Learning**  
-- scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM, OpenCV  
+- scikit-learn, TensorFlow, Keras, PyTorch, OpenCV, LightGBM, XGBoost  
+- Techniques: Regression, Classification, Clustering, Dimensionality Reduction, NLP, Time Series, Neural Networks  
 
 **Big Data & Cloud**  
-- Spark, Hadoop, MongoDB, Airflow, AWS, Azure  
+- Apache Spark, Hadoop, MongoDB, Apache Airflow  
+- AWS (S3, EC2, SageMaker), Azure Data Services, Cloud Deployment  
 
 **Web & APIs**  
 - FastAPI, Django, Streamlit, Flask, Web Scraping (BeautifulSoup, Selenium, Scrapy)  
 
-**Visualization & Reporting**  
+**Data Visualization & Reporting**  
 - Power BI, Tableau, Matplotlib, Seaborn, Plotly, Excel  
 
 **Quantitative Risk Analytics**  
-- Stress Testing, ICAAP, Basel II/III, IFRS 9 & IFRS 17  
+- Statistical Analysis, Stress Testing, ICAAP, Basel II/III Frameworks, IFRS 9 & 17 Models  
 
 ---
 
@@ -56,36 +59,63 @@ I am passionate about **transforming complex datasets into actionable insights**
 **Quantitative Risk Analyst Intern** – Ernst & Young (EY)  
 📅 *Oct 2023 – Jul 2024*  
 
-- Developed and validated **credit risk models** for banks in Southern Africa & MENA  
-- Built **IFRS 9 impairment models (PD, EAD, LGD)** using Python & R  
-- Designed **interactive dashboards** for senior stakeholders  
-- Assisted in **regulatory compliance reporting** and **Basel/IFRS alignment**  
+- Developed and validated **credit risk models** for banks across Southern Africa & MENA region.  
+- Built **IFRS 9 impairment models (PD, EAD, LGD)** using **Python & R**.  
+- Applied **predictive analytics** and **machine learning models** to support **financial decision-making**.  
+- Designed **interactive dashboards** to communicate complex data insights to stakeholders.  
+- Assisted in **regulatory compliance reporting** and **Basel/IFRS alignment**.  
 
 ---
 
 ## 🚀 Projects
 
 ### 1️⃣ Class-Imbalance & Distributional Overlap
-- Fraud detection with **XGBoost & Balanced Random Forest**, handling severe class imbalance  
-- Applied **SMOTE & ADASYN resampling**, achieving top **F1-score & AUC**  
+- Developed a **fraud detection framework** handling extreme **class imbalance & feature overlap**.  
+- Applied **ensemble methods (XGBoost, Random Forest, Balanced Random Forest)** combined with **SMOTE & ADASYN resampling**.  
+- Achieved **high F1-score and AUC**, enabling robust detection of minority fraud cases.  
+
+**Tech Stack:** Python, scikit-learn, XGBoost, imbalanced-learn, Pandas, Seaborn  
+
+---
 
 ### 2️⃣ Credit-Risk Modelling — Zimbabwe Data
-- End-to-end **credit risk pipeline** for predicting borrower defaults  
-- Applied **resampling, hyperparameter tuning**, and **visual analytics**  
+- Built an end-to-end **credit risk modeling pipeline** using real microfinance data.  
+- Implemented **resampling techniques**, **feature engineering**, and **hyperparameter tuning**.  
+- Evaluated models using **AUC, F1-score, MCC, balanced accuracy** with **visual analytics**.  
 
-### 3️⃣ Football Analytics
-- Data-driven **player performance & team strategy analysis**  
-- Created **interactive dashboards** for scouting and performance monitoring  
+**Tech Stack:** Python, scikit-learn, Pandas, Power BI, NumPy  
 
-### 4️⃣ Web Scraping & Automation
-- Built automated pipelines with **BeautifulSoup, Selenium, Scrapy** for structured datasets  
+---
+
+### 3️⃣ Football Analytics: Data Science Meets Soccer
+- Analyzed **player performance, expected goals (xG), and team strategies** using Python and ML models.  
+- Created **interactive dashboards** for player scouting and match analysis.  
+
+**Tech Stack:** Python, Pandas, scikit-learn, Matplotlib, Seaborn, Power BI  
+
+---
+
+### 4️⃣ Web Scraping & Data Automation
+- Automated data collection from multiple websites using **BeautifulSoup, Selenium, Scrapy**.  
+- Built **structured datasets** for analytics and machine learning applications.  
+
+**Tech Stack:** Python, BeautifulSoup, Selenium, Scrapy, Pandas  
+
+---
 
 ### 5️⃣ Streamlit & Django Movie Recommender
-- Collaborative filtering-based **movie recommendation system**  
-- Interactive interfaces via **Django & Streamlit**  
+- Interactive **movie recommendation platform** with **user- and item-based collaborative filtering**.  
+- Web interfaces built using **Django & Streamlit** for real-time recommendations.  
+
+**Tech Stack:** Python, Django, Streamlit, scikit-learn, Pandas  
+
+---
 
 ### 6️⃣ FastAPI Projects
-- RESTful APIs for **real-time predictions & ML deployment**  
+- Developed **RESTful APIs** for real-time predictions, CRUD operations, and ML model deployment.  
+- Integrated **machine learning pipelines** into production-ready web services.  
+
+**Tech Stack:** Python, FastAPI, Pydantic, Uvicorn, scikit-learn  
 
 ---
 
@@ -93,18 +123,9 @@ I am passionate about **transforming complex datasets into actionable insights**
 
 **Python:** ![80%](https://progress-bar.dev/80/?title=Python)  
 **Machine Learning:** ![75%](https://progress-bar.dev/75/?title=ML)  
-**Deep Learning:** ![65%](https://progress-bar.dev/65/?title=DL)  
+**Deep Learning:** ![85%](https://progress-bar.dev/65/?title=DL)  
 **SQL & Databases:** ![70%](https://progress-bar.dev/70/?title=SQL)  
 **Data Visualization:** ![85%](https://progress-bar.dev/85/?title=Viz)  
-
----
-
-## 🌐 GitHub Stats & Analytics
-
-![Tichaona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TichaonaMutomba&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TichaonaMutomba&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TichaonaMutomba&theme=radical)  
-![Profile Views](https://komarev.com/ghpvc/?username=TichaonaMutomba&label=Profile+views&color=blue)  
 
 ---
 
@@ -118,4 +139,5 @@ I am passionate about **transforming complex datasets into actionable insights**
 
 ## ⚡ Interests
 
-💻 Computer hardware | ⚽ Soccer | 🌱 Volunteering | 🌏 Learning languages & cultures
+💻 Computer hardware repair | ⚽ Soccer | 🌱 Volunteering | 🌏 Learning languages & cultures
+

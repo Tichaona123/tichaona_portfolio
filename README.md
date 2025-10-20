@@ -61,7 +61,7 @@ I am passionate about **transforming data into insights** that drive business va
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   </a>
-  <a href="https://www.postgresql.org" target="_blank">
+  <a href="httpsin://www.postgresql.org" target="_blank">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
@@ -88,7 +88,7 @@ I am passionate about **transforming data into insights** that drive business va
   <a href="https://keras.io/" target="_blank">
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   </a>
-  <a href="https://pytorch.org/" target="_blank">
+  <a href="httpsin://pytorch.org/" target="_blank">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   </a>
   <a href="https://opencv.org/" target="_blank">
@@ -97,7 +97,7 @@ I am passionate about **transforming data into insights** that drive business va
   <a href="https://lightgbm.readthedocs.io/en/stable/" target="_blank">
     <img src="https://img.shields.io/badge/LightGBM-8E0000?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/>
   </a>
-  <a href="https://xgboost.ai/" target="_blank">
+  <a href="httpsin://xgboost.ai/" target="_blank">
     <img src="https://img.shields.io/badge/XGBoost-006000?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
   </a>
   <br>
@@ -111,7 +111,7 @@ I am passionate about **transforming data into insights** that drive business va
   <a href="https://hadoop.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
+  <a href="httpsin://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   </a>
   <a href="https://airflow.apache.org/" target="_blank">
@@ -132,7 +132,7 @@ I am passionate about **transforming data into insights** that drive business va
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   </a>
-  <a href="https://streamlit.io/" target="_blank">
+  <a href="httpsin://streamlit.io/" target="_blank">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
@@ -150,13 +150,13 @@ I am passionate about **transforming data into insights** that drive business va
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
   </a>
-  <a href="https://www.tableau.com/" target="_blank">
+  <a href="httpsin://www.tableau.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank">
     <img src="https://img.shields.io/badge/Matplotlib-313131?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
   </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
+  <a href="httpsin://seaborn.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Seaborn-34A853?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
   </a>
   <a href="https://plotly.com/" target="_blank">
@@ -181,10 +181,10 @@ I am passionate about **transforming data into insights** that drive business va
   <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/" target="_blank">
     <img src="https://img.shields.io/badge/Azure_Data_Engineer_(DP-203)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Engineer Associate"/>
   </a>
-  <a href="https://cloud.google.com/learn/certification/data-engineer" target="_blank">
+  <a href="httpsin://cloud.google.com/learn/certification/data-engineer" target="_blank">
     <img src="https://img.shields.io/badge/Google_Professional_Data_Engineer-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="Google Professional Data Engineer"/>
   </a>
-  <a href="httpsD://www.credly.com/org/ernst-young/badge/ey-data-science-bronze" target="_blank">
+  <a href="https://www.credly.com/org/ernst-young/badge/ey-data-science-bronze" target="_blank">
     <img src="https://img.shields.io/badge/EY_Bronze_Badge_(Data_Science)-FBE64D?style=for-the-badge&logo=ey&logoColor=black" alt="EY Bronze Badge"/>
   </a>
 </p>
@@ -207,36 +207,34 @@ I am passionate about **transforming data into insights** that drive business va
 
 ### 🚀 Projects
 
-* **Tip:** Replace the `[#]` with the direct link to your repository for each project (e.g., `https'://github.com/Tichaona123/Your-Project-Repo`).
-
-**1️⃣ Class-Imbalance & Distributional Overlap** | [🔗 View on GitHub](#)
+**1️⃣ Class-Imbalance & Distributional Overlap** | [🔗 View on GitHub](https://github.com/Tichaona123)
 -   Developed a **fraud detection framework** handling extreme **class imbalance & feature overlap**.
 -   Applied **ensemble methods (XGBoost, Random Forest, Balanced Random Forest)** combined with **SMOTE & ADASYN resampling**.
 -   Achieved **high F1-score and AUC**, enabling robust detection of minority fraud cases.
 -   **Tech Stack:** Python, scikit-learn, XGBoost, imbalanced-learn, Pandas, Seaborn
 
-**2️⃣ Credit-Risk Modelling — Zimbabwe Data** | [🔗 View on GitHub](#)
+**2️⃣ Credit-Risk Modelling — Zimbabwe Data** | [🔗 View on GitHub](https://github.com/Tichaona123)
 -   Built an end-to-end **credit risk modeling pipeline** using real microfinance data.
 -   Implemented **resampling techniques**, **feature engineering**, and **hyperparameter tuning**.
 -   Evaluated models using **AUC, F1-score, MCC, balanced accuracy** with **visual analytics**.
 -   **Tech Stack:** Python, scikit-learn, Pandas, Power BI, NumPy
 
-**3️⃣ Football Analytics: Data Science Meets Soccer** | [🔗 View on GitHub](#)
+**3️⃣ Football Analytics: Data Science Meets Soccer** | [🔗 View on GitHub](https://github.com/Tichaona123)
 -   Analyzed **player performance, expected goals (xG), and team strategies** using Python and ML models.
 -   Created **interactive dashboards** for player scouting and match analysis.
 -   **Tech Stack:** Python, Pandas, scikit-learn, Matplotlib, Seaborn, Power BI
 
-**4️⃣ Web Scraping & Data Automation** | [🔗 View on GitHub](#)
+**4️⃣ Web Scraping & Data Automation** | [🔗 View on GitHub](https://github.com/Tichaona123)
 -   Automated data collection from multiple websites using **BeautifulSoup, Selenium, Scrapy**.
 -   Built **structured datasets** for analytics and machine learning applications.
 -   **Tech Stack:** Python, BeautifulSoup, Selenium, Scrapy, Pandas
 
-**5️⃣ Streamlit & Django Movie Recommender** | [🔗 ViewTo on GitHub](#)
+**5️⃣ Streamlit & Django Movie Recommender** | [🔗 View on GitHub](https://github.com/Tichaona123)
 -   Interactive **movie recommendation platform** with **user- and item-based collaborative filtering**.
 -   Web interfaces built using **Django & Streamlit** for real-time recommendations.
 -   **Tech Stack:** Python, Django, Streamlit, scikit-learn, Pandas
 
-**6️⃣ FastAPI Projects** | [🔗 View on GitHub](#)
+**6️⃣ FastAPI Projects** | [🔗 View on GitHub](httpss://github.com/Tichaona123)
 -   Developed **RESTful APIs** for real-time predictions, CRUD operations, and ML model deployment.
 -   Integrated **machine learning pipelines** into production-ready web services.
 -   **Tech Stack:** Python, FastAPI, Pydantic, Uvicorn, scikit-learn

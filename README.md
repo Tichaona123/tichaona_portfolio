@@ -13,13 +13,13 @@
     <a href="https://linkedin.com/in/tichaonamutomba">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://github.com/TichaonaMutomba">
+    <a href="https://github.com/Tichaona123">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </p>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=TichaonaMutomba&style=for-the-badge&color=brightgreen" alt="Profile Visitors"/>
+    <img src="https://komarev.com/ghpvc/?username=Tichaona123&style=for-the-badge&color=brightgreen" alt="Profile Visitors"/>
   </p>
 
 </div>
@@ -43,10 +43,10 @@ I am passionate about **transforming data into insights** that drive business va
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TichaonaMutomba&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github" alt="Tichaona's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TichaonaMutomba&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tichaona123&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github" alt="Tichaona's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tichaona123&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TichaonaMutomba&theme=tokyonight" alt="GitHub Streak" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tichaona123&theme=tokyonight" alt="GitHub Streak" width="60%"/>
 </p>
 
 ---
@@ -184,7 +184,7 @@ I am passionate about **transforming data into insights** that drive business va
   <a href="https://cloud.google.com/learn/certification/data-engineer" target="_blank">
     <img src="https://img.shields.io/badge/Google_Professional_Data_Engineer-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="Google Professional Data Engineer"/>
   </a>
-  <a href="https://www.credly.com/org/ernst-young/badge/ey-data-science-bronze" target="_blank">
+  <a href="httpsD://www.credly.com/org/ernst-young/badge/ey-data-science-bronze" target="_blank">
     <img src="https://img.shields.io/badge/EY_Bronze_Badge_(Data_Science)-FBE64D?style=for-the-badge&logo=ey&logoColor=black" alt="EY Bronze Badge"/>
   </a>
 </p>
@@ -207,7 +207,7 @@ I am passionate about **transforming data into insights** that drive business va
 
 ### 🚀 Projects
 
-* **Tip:** Replace the `[#]` with the direct link to your repository for each project (e.g., `https'://github.com/TichaonaMutomba/Your-Project-Repo`).
+* **Tip:** Replace the `[#]` with the direct link to your repository for each project (e.g., `https'://github.com/Tichaona123/Your-Project-Repo`).
 
 **1️⃣ Class-Imbalance & Distributional Overlap** | [🔗 View on GitHub](#)
 -   Developed a **fraud detection framework** handling extreme **class imbalance & feature overlap**.
@@ -221,7 +221,7 @@ I am passionate about **transforming data into insights** that drive business va
 -   Evaluated models using **AUC, F1-score, MCC, balanced accuracy** with **visual analytics**.
 -   **Tech Stack:** Python, scikit-learn, Pandas, Power BI, NumPy
 
-**3️⃣ Football Analytics: Data Science Meets Soccer** | [🔗 View onD GitHub](#)
+**3️⃣ Football Analytics: Data Science Meets Soccer** | [🔗 View on GitHub](#)
 -   Analyzed **player performance, expected goals (xG), and team strategies** using Python and ML models.
 -   Created **interactive dashboards** for player scouting and match analysis.
 -   **Tech Stack:** Python, Pandas, scikit-learn, Matplotlib, Seaborn, Power BI
@@ -231,7 +231,7 @@ I am passionate about **transforming data into insights** that drive business va
 -   Built **structured datasets** for analytics and machine learning applications.
 -   **Tech Stack:** Python, BeautifulSoup, Selenium, Scrapy, Pandas
 
-**5️⃣ Streamlit & Django Movie Recommender** | [🔗 View on GitHub](#)
+**5️⃣ Streamlit & Django Movie Recommender** | [🔗 ViewTo on GitHub](#)
 -   Interactive **movie recommendation platform** with **user- and item-based collaborative filtering**.
 -   Web interfaces built using **Django & Streamlit** for real-time recommendations.
 -   **Tech Stack:** Python, Django, Streamlit, scikit-learn, Pandas
